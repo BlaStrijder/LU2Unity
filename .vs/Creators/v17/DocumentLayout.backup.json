@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steff\\Creators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\getenvironmentobjectsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\getenvironmentobjectsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\object2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\object2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|c:\\users\\steff\\creators\\assets\\scripts\\worldsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\worldsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\getcurrentenvironmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\getcurrentenvironmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\getenvironmentsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\getenvironmentsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\postobjectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\postobjectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\putobjectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\putobjectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\getcurrentenvironmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\getcurrentenvironmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\postobjectresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\postobjectresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\postenvironmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\postenvironmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\postuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\postuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|C:\\Users\\steff\\Creators\\assets\\scripts\\apiclient\\dto\\postloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A25C5-BD3A-22D0-C247-2C20B747A782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apiclient\\dto\\postloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\ApiClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\ApiClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwMkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:49:53.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\ObjectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\ObjectManager.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\ObjectManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\ObjectManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawH0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:23:18.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetEnvironmentObjectsResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentObjectsResponseDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentObjectsResponseDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentObjectsResponseDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentObjectsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:27:02.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\LoginManager.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\LoginManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\LoginManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:28:21.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorldsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\WorldsDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorldsDisplay.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\WorldsDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorldsDisplay.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:29:32.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Object2D.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Object2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Object2D.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Object2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Object2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:25:03.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCurrentEnvironmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentResponseDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentResponseDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentResponseDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:54:26.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Navigator.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\Navigator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Navigator.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\Navigator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Navigator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:56:20.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetEnvironmentsResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentsResponseDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentsResponseDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentsResponseDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\GetEnvironmentsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:02:52.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostObjectRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostObjectRequestDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\PostObjectRequestDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostObjectRequestDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\PostObjectRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:24:32.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PutObjectRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PutObjectRequestDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\PutObjectRequestDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PutObjectRequestDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\PutObjectRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:54:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetCurrentEnvironmentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentRequestDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentRequestDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentRequestDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\GetCurrentEnvironmentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:34:59.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostObjectResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostObjectResponseDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\PostObjectResponseDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostObjectResponseDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\PostObjectResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:45:11.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostEnvironmentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostEnvironmentRequestDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\PostEnvironmentRequestDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostEnvironmentRequestDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\PostEnvironmentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:09:01.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostUserRequestDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\PostUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostUserRequestDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\PostUserRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:54:43.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostLoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApiClient\\Dto\\PostLoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\steff\\Creators\\Assets\\Scripts\\ApiClient\\Dto\\PostLoginRequestDto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApiClient\\Dto\\PostLoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:10:04.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
